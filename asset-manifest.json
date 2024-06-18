@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.54bdabee.css",
+    "main.js": "/static/js/main.c8f816bd.js",
+    "static/js/453.6caa798a.chunk.js": "/static/js/453.6caa798a.chunk.js",
+    "static/media/3d-gym-equipment1.jpg": "/static/media/3d-gym-equipment1.d7d0ce19d9624a671697.jpg",
+    "static/media/close-up-athlete-training.jpg": "/static/media/close-up-athlete-training.189ef750be08e1327d63.jpg",
+    "static/media/athletic-person-exercising-working-out.jpg": "/static/media/athletic-person-exercising-working-out.b717d3787ef73366f901.jpg",
+    "static/media/athletic-man-keeping-fit-by-practicing-gymnastics.jpg": "/static/media/athletic-man-keeping-fit-by-practicing-gymnastics.a4dac2abe962f4a72d30.jpg",
+    "static/media/trainer (2).jpg": "/static/media/trainer (2).5321a813bad2e6828f6d.jpg",
+    "static/media/3d-gym-equipment.jpg": "/static/media/3d-gym-equipment.98e6ed7ce0c5a24f039c.jpg",
+    "static/media/trainer (3).jpg": "/static/media/trainer (3).0a971ab88fb97a785c6b.jpg",
+    "static/media/bg.webp": "/static/media/bg.33dfc5fdd834df7bb0a1.webp",
+    "static/media/trainer (1).jpg": "/static/media/trainer (1).21d6ff870b50b45e9565.jpg",
+    "static/media/114150-OOYJW2-324-removebg-preview.png": "/static/media/114150-OOYJW2-324-removebg-preview.f211d255a190a9a4235c.png",
+    "static/media/114150-OOYJW2-324-removebg-previeww.png": "/static/media/114150-OOYJW2-324-removebg-previeww.4937b4db1fe27eda4abb.png",
+    "index.html": "/index.html",
+    "main.54bdabee.css.map": "/static/css/main.54bdabee.css.map",
+    "main.c8f816bd.js.map": "/static/js/main.c8f816bd.js.map",
+    "453.6caa798a.chunk.js.map": "/static/js/453.6caa798a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54bdabee.css",
+    "static/js/main.c8f816bd.js"
+  ]
+}
